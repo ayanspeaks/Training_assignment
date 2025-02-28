@@ -36,7 +36,7 @@ public class funcDemo {
 	}.greetUser();
 	
 	//java 8 feature
-	FunInf obj2 = ()->
+	FunInf obj2 = ()->System.out.println("Java 8 new feature");
 	}
 
 }

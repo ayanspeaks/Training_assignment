@@ -5,7 +5,7 @@ class A{
 	String name = "Rohit";
 	
 	public void userDetails() {
-		System.out.println("ID : "+id+" Name : "+name);
+		System.out.println("ID : "id+" Name : "+name);
 	}
 }
 

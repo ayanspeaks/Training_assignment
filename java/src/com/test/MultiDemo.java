@@ -27,6 +27,15 @@ public class MultiDemo {
 		obj.method3();
 		obj.method2();
 		obj.method1();
+		
+		C obj1 = new C();
+		
+		C obj2 = obj1;
+		
+		Object obj3 = obj1;
+		
+		long x=100;
+		int y=(int)x;
 	}
 
 }

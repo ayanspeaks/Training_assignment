@@ -1,1 +1,1 @@
-# pseudo
+#Training assignment

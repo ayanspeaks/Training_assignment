@@ -181,3 +181,36 @@ public class MavenAssignment {
         }
     }
 }
+
+Here’s a great inline CSS for your <p> tag to make it visually appealing for an image slider placeholder:
+
+<p style="
+    font-size: 24px; 
+    font-weight: bold; 
+    color: #ffffff; 
+    background: linear-gradient(45deg, #ff6b6b, #6b6bff); 
+    padding: 10px 20px; 
+    border-radius: 8px; 
+    text-align: center; 
+    width: max-content; 
+    margin: auto; 
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+">
+    Image Slider (Placeholder)
+</p>
+
+Explanation:
+
+font-size: 24px; → Makes the text large and readable.
+
+font-weight: bold; → Emphasizes the text.
+
+color: #ffffff; → Sets the text color to white for contrast.
+
+background: linear-gradient(45deg, #ff6b6b, #6b6bff); → Adds a gradient effect.
+
+padding: 10px 20px; → Provides comfortable spacing inside.
+
+border-radius: 8px; → Gives rounded
+
+
